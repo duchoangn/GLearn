@@ -1,0 +1,4 @@
+nâng cao 
+git branch <tên nhánh> :Tạo nhánh để làm việc mà không đụng tới nhánh chính
+git checkout <tên nhánh>: Chuyển qua nhánh cần làm việc
+git checkout -b <tên nhánh>: Tự tạo nhánh mới và chuyển qua nhánh mới tạo luôn
