@@ -1,6 +1,2 @@
 Hoang học git 
-<<<<<<< HEAD
-tạo 
-=======
-tạo conflict tao su khac biet
->>>>>>> 42a53ef9e0b680ddd1ea1a059b72ca283786d2ff
+tạo
