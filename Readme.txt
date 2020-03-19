@@ -8,5 +8,3 @@ git push: Đẩy tha đổi từ repo trên máy lên mạng
 
 git log  or   git status: Xem trạng thái file như thế nào
 git log --decorate --graph --oneline 
-
-
